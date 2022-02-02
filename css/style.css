@@ -33,3 +33,18 @@ body{
     color: #3f87f5 !important;
     font-weight: 600;
 }
+.wedding{
+    padding: 100px 0px;
+}
+.about-us h1{
+    font-size: 38px;
+    font-weight: 700;
+}
+.about-us p{
+   color: #6C6C6C ;
+   font-weight: 700;
+   line-height: 28px;
+}
+.section-tile{
+    
+}
