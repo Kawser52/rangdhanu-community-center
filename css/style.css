@@ -46,5 +46,41 @@ body{
    line-height: 28px;
 }
 .section-tile{
-    
+
+}
+.package-content h2{
+    font-weight: 700;
+    font-size: 36px;
+    color:#231D4F;
+}
+.package-content h3{
+    color: #231D4F;
+    font-size: 28px;
+    font-weight: 700;
+}
+.package-content p{
+    color: #848199;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 22px;
+}
+.package-content i{
+    color: #5243C2;
+    padding: 5px;
+}
+.custom-design{
+    background: #F496D1;
+    padding: 10px 40px;
+    border:none;
+}
+.custom-design:focus{
+    border: none;
+}
+.package-content{
+   padding: 50px 2px;
+}
+.package-content:hover{
+    background: #3F87F5;
+    border-radius: 10px;
+    padding: 30px 30px;
 }
