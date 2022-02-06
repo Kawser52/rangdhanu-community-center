@@ -45,9 +45,7 @@ body{
    font-weight: 700;
    line-height: 28px;
 }
-.section-tile{
 
-}
 .package-content h2{
     font-weight: 700;
     font-size: 36px;
@@ -72,6 +70,9 @@ body{
     background: #F496D1;
     padding: 10px 40px;
     border:none;
+    color: blue;
+    font-weight: 700;
+    font-size: 15px;
 }
 .custom-design:focus{
     border: none;
@@ -79,8 +80,24 @@ body{
 .package-content{
    padding: 50px 2px;
 }
-.package-content:hover{
+
+.design{
     background: #3F87F5;
     border-radius: 10px;
     padding: 30px 30px;
+    transition: 0.5s; 
+    box-shadow: 3px 3px 5px 6px #ccc;
+}
+.design button{
+    background: white;
+}
+.design h2,.design h3, .design p ,.design i{
+ color:white;
+}
+.question{
+   padding: 10px 0px 100px 0px;
+}
+.footer{
+    background: black;
+    padding: 80px 30px;
 }
